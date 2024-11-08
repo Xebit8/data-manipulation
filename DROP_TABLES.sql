@@ -1,0 +1,1 @@
+DROP TABLE clients, employees, invoices, orders, parts, service_centers, services, vehicles_repairment
